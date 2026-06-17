@@ -2,6 +2,7 @@
 Building a modern data warehouse with SQL server, including ETL processes, data modelling and analytics
 
 **Objective**
+
 Develop a modern data warehouse using SQL server to consolidate sales data, enabling analytical reporting and informed decision-making
 
 #### Specifications
